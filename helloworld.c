@@ -5,5 +5,6 @@ int main() {
 	printf("Edited through cloned repository");
 	printf("Edited on a new branch");
 	printf("Merging a new branch");
+	printf("Merge Conflict");
 	return 0;
 }
